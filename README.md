@@ -1,5 +1,5 @@
 # Anomaly_Detection
-Get Dataset from here: http://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html
+Get Dataset from here: http://www.svcl.ucsd.edu/projects/anomaly/dataset.html
 ## Dataset Description
 *The folders Peds1 and Peds2 contain the individual frames of each clip in TIFF format.
 
