@@ -20,7 +20,6 @@ A frame-level annotation of abnormal events is provided in the ground truth list
 *10 test clips from the Peds1 set and 12 from Ped2 are also provided with PIXEL LEVEL GROUNDTRUTH MASKS.
 These masks are labeled "Test004_gt", "Test014_gt", "Test018_gt" etc. in the Peds1 folder. 
 (There is also full pixel level annotation on Ped1 for all 36 testing videos available at http://hci.iwr.uni-heidelberg.de/COMPVIS/research/abnormality)
-# Anomaly Detection in Video Frames using Autoencoders
 
 ### Directory Structure
 - `Train`: Contains training clips of pedestrian activity.
