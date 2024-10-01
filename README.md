@@ -42,8 +42,6 @@ The model consists of the following components:
 - The model is trained using the training set for **30 epochs** with a batch size of **32**.
 - The input images are normalized to the range [0, 1].
 
-## Code Overview
-
 ### Functions
 - `load_images_from_folder(folder)`: Loads and preprocesses images from the specified folder.
 - `load_ground_truth_masks(folder)`: Loads and preprocesses ground truth masks.
