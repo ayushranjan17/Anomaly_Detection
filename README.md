@@ -1,6 +1,6 @@
 # Anomaly Detection
 
-## Project Overview
+## Overview
 
 This project implements an **Anomaly Detection** system for video frames using a **Convolutional Autoencoder** model. The model aims to detect anomalies in pedestrian footage from the **UCSD Anomaly Detection Dataset**. It reconstructs the input frames and identifies anomalies based on reconstruction errors. The project uses a pre-trained **VGG16** model as a feature extractor to enhance performance.
 
